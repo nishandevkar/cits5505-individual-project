@@ -1,0 +1,27 @@
+1. Need 3 Pages.
+2. Need a Navigation bar with 3 tabs.
+
+Page 1: (the concept of Hyperlinks).
+- 1000 words of content.
+- Examples of HTTP requests and anchor tags.
+- Concept of Hyperlinks with local examples(maybe redirect to other pages or functions.
+- Interactive examples (maybe forms, pictures, with HTTP request and anchor tags).
+- Use proper semantic HTML tags, (article, header, section, footer, aside, etc.).
+
+My inference:.
+1. One example of hyperlink referencing a different section of the page.
+2. One example of hyperlink referencing a different page.
+3. One example of hyperlink referencing a popular url.
+4. One form example of HTTP Requests (GET,PUSH).
+5. One Image example of anchor tags.
+
+Page 2: (The history of Hyperlinks).
+- Identify key technologies and applications.
+- evolving use of hyperlinks.
+- how the use evolved in case of presentation and organisation of material.
+
+Page 3: (Biography in form of CV).
+- Self Introduction.
+- Maybe accessed from About Me tab.
+- Timeline of education/work.
+- Picture of Nishan Devkar.

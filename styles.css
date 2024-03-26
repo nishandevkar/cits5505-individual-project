@@ -1,0 +1,17 @@
+:root{
+ --mainTitleColor: #E1AFD1;
+ --containerColor: #FFE6E6;
+ --bodyColor:#AD88C6;
+}
+/* .titleName{
+    margin: 1rem;
+    background-color: var(--mainTitleColor);
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.titleName > h1 {
+    padding: 1rem;
+    text-align: center;
+} */
+
